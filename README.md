@@ -18,6 +18,10 @@ The project goes beyond simply training a classifier. It includes data quality a
 ⚠️ Important: This model predicts the dataset’s PHA classification. It is not an actual Earth-impact probability predictor.
 
 ⸻
+## Dataset 
+
+Dataset Link : [Asteroid Dataset] (https://www.kaggle.com/datasets/shamimhasan8/asteroid-dataset?utm_source=chatgpt.com#)
+Certificated Source : [NASA] (https://ssd.jpl.nasa.gov/tools/sbdb_query.html)
 
 🎯 Objectives
 
