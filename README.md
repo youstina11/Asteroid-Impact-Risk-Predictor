@@ -1,4 +1,4 @@
-☄️ Asteroid Hazard Prediction Using Machine Learning
+## ☄️ Asteroid Hazard Prediction Using Machine Learning
 
 An end-to-end Machine Learning system for identifying Potentially Hazardous Asteroids (PHAs) from astronomical and orbital features.
 
