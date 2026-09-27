@@ -4,7 +4,8 @@ An end-to-end Machine Learning system for identifying Potentially Hazardous Aste
 
 ⸻
 
-[[!Open In Colab](https://colab.research.google.com/drive/1NrmFq8A_hYwAJCXJCCH7WgXlVC0eL3vq#scrollTo=92ce9008)]
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) (https://colab.research.google.com/drive/1NrmFq8A_hYwAJCXJCCH7WgXlVC0eL3vq#scrollTo=92ce9008)
+
 
 🌌 Project Overview
 
