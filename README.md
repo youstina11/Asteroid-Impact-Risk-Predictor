@@ -3,7 +3,7 @@
 An end-to-end Machine Learning system for identifying Potentially Hazardous Asteroids (PHAs) from astronomical and orbital features.
 
 ⸻
-[[!Open In Colab](
+[[!Open In Colab](https://colab.research.google.com/drive/1NrmFq8A_hYwAJCXJCCH7WgXlVC0eL3vq#scrollTo=92ce9008)]
 
 🌌 Project Overview
 
